@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/labhello.dir/main.cpp.o  -o labhello libcalculator.a 

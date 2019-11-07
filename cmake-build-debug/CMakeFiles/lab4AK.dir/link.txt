@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/lab4AK.dir/main.cpp.o CMakeFiles/lab4AK.dir/calculator.cpp.o  -o lab4AK 

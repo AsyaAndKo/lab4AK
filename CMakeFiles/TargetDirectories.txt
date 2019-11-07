@@ -1,0 +1,5 @@
+/home/damn_lestat/CLionProjects/lab4AK/CMakeFiles/edit_cache.dir
+/home/damn_lestat/CLionProjects/lab4AK/CMakeFiles/rebuild_cache.dir
+/home/damn_lestat/CLionProjects/lab4AK/CMakeFiles/labhello.dir
+/home/damn_lestat/CLionProjects/lab4AK/CMakeFiles/lab4AK.dir
+/home/damn_lestat/CLionProjects/lab4AK/CMakeFiles/calculator.dir

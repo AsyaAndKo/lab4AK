@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="lab4AK"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="labhello">
+				<Option output="/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/labhello" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 labhello"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="labhello/fast">
+				<Option output="/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/labhello" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 labhello/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab4AK">
+				<Option output="/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/lab4AK" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab4AK"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab4AK/fast">
+				<Option output="/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/lab4AK" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab4AK/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="calculator">
+				<Option output="/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/libcalculator.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 calculator"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="calculator/fast">
+				<Option output="/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/libcalculator.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 calculator/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/damn_lestat/CLionProjects/lab4AK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/damn_lestat/CLionProjects/lab4AK/calculator.cpp">
+			<Option target="lab4AK"/>
+			<Option target="calculator"/>
+		</Unit>
+		<Unit filename="/home/damn_lestat/CLionProjects/lab4AK/calculator.h">
+			<Option target="lab4AK"/>
+			<Option target="calculator"/>
+		</Unit>
+		<Unit filename="/home/damn_lestat/CLionProjects/lab4AK/main.cpp">
+			<Option target="labhello"/>
+			<Option target="lab4AK"/>
+		</Unit>
+		<Unit filename="/home/damn_lestat/CLionProjects/lab4AK/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
